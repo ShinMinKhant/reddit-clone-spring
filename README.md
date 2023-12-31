@@ -1,2 +1,2 @@
 # reddit-clone-spring
-Reddit Clone
+A reddit clone created with Spring Boot, Spring Security with JPA Authentication, Spring Data JPA with MySQL, and Spring MVC.
